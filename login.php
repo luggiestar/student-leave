@@ -25,7 +25,7 @@
 
             else {
                 header("location:index.php?login_error=Invalid username or password");
-                echo "error3";
+                echo "error3 j";
             }
         }
     }
